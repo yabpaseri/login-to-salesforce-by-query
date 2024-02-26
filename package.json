@@ -1,0 +1,28 @@
+{
+  "name": "login-to-salesforce-by-query",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Login to Salesforce by using a username and password as URL query string parameters.",
+  "license": "MIT",
+  "author": "yabpaseri",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "2.0.0-beta.23",
+    "@types/archiver": "^6.0.2",
+    "@types/chrome": "^0.0.261",
+    "@types/node": "^20.11.20",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "@typescript-eslint/parser": "^7.0.2",
+    "archiver": "^6.0.1",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.4"
+  }
+}
