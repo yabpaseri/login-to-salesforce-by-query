@@ -8,7 +8,7 @@ This extension saves the username and password from the query string and automat
 ## Install
 
 Install from Chrome web store  
-[Coming soon...](#)
+[https://chromewebstore.google.com/detail/ilkaphjglkklmgbfojegfhmpmfhlemmf](https://chromewebstore.google.com/detail/ilkaphjglkklmgbfojegfhmpmfhlemmf)
 
 ## Feature
 

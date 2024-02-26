@@ -8,7 +8,7 @@ Spring'22以降、クエリー文字列によるログインが使用できな�
 ## インストール
 
 Chromeウェブストアからインストールしてください  
-[Comming soon...](#)
+[https://chromewebstore.google.com/detail/ilkaphjglkklmgbfojegfhmpmfhlemmf](https://chromewebstore.google.com/detail/ilkaphjglkklmgbfojegfhmpmfhlemmf)
 
 ## 特徴
 
