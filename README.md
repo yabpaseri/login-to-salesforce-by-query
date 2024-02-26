@@ -1,6 +1,6 @@
 # Login to Salesforce by query strings
 
-[日本語のREADMEはこちら](#)
+[日本語のREADMEはこちら](https://github.com/yabpaseri/login-to-salesforce-by-query/blob/main/README-ja.md)
 
 We can no longer login to Salesforce by using query strings from Spring'22.  
 This extension saves the username and password from the query string and automatically fills them in on the login screen.
