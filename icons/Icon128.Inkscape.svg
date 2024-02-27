@@ -60,10 +60,10 @@
     <rect
        style="fill:#b7dcff;fill-opacity:1;stroke-width:5;stroke-linecap:square"
        id="rect834"
-       width="128"
-       height="128"
-       x="0"
-       y="0" />
+       width="96"
+       height="96"
+       x="16"
+       y="16" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,7 +73,7 @@
     <path
        id="path993-3-33"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 29.371297,20.066258 A 27.007819,27.007816 0 0 0 2.3634738,47.074077 27.007819,27.007816 0 0 0 9.4760443,65.336962 27.007819,27.007816 0 0 0 4.5214129,80.925922 27.007819,27.007816 0 0 0 31.52923,107.93375 27.007819,27.007816 0 0 0 51.59328,99.006581 27.007819,27.007816 0 0 0 71.65349,107.93375 27.007819,27.007816 0 0 0 97.084571,90.018043 27.007819,27.007816 0 0 0 98.628702,90.064068 27.007819,27.007816 0 0 0 125.63653,63.056255 27.007819,27.007816 0 0 0 98.628702,36.048438 27.007819,27.007816 0 0 0 89.766759,37.542692 27.007819,27.007816 0 0 0 65.5844,22.561797 27.007819,27.007816 0 0 0 48.854137,28.370011 27.007819,27.007816 0 0 0 29.371297,20.066258 Z" />
+       d="m 40.510388,34.198522 a 18.320153,18.320151 0 0 0 -18.320156,18.320153 18.320153,18.320151 0 0 0 4.824654,12.388222 18.320153,18.320151 0 0 0 -3.360864,10.574424 18.320153,18.320151 0 0 0 18.320152,18.320158 18.320153,18.320151 0 0 0 13.610002,-6.055545 18.320153,18.320151 0 0 0 13.607397,6.055545 18.320153,18.320151 0 0 0 17.250608,-12.15272 18.320153,18.320151 0 0 0 1.047427,0.03122 A 18.320153,18.320151 0 0 0 105.80977,63.35983 18.320153,18.320151 0 0 0 87.489608,45.039678 18.320153,18.320151 0 0 0 81.478306,46.053272 18.320153,18.320151 0 0 0 65.074741,35.891315 18.320153,18.320151 0 0 0 53.726139,39.831188 18.320153,18.320151 0 0 0 40.510388,34.198522 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -81,14 +81,14 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.8198px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1"
-       x="5.0335941"
-       y="81.831001"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1;stroke:none"
+       x="15.078125"
+       y="78.79361"
        id="text936"><tspan
          sodipodi:role="line"
          id="tspan934"
-         x="5.0335941"
-         y="81.831001"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.8198px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1;stroke-width:1">?un=</tspan></text>
+         x="15.078125"
+         y="78.79361"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.3333px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1">?un=</tspan></text>
   </g>
 </svg>
